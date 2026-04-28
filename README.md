@@ -27,4 +27,4 @@ My goal is to simplify complex tasks and create useful utilities.
   <sub>Built with ❤️ by <a href="https://github.com/ArYan339">Aryan</a></sub>
 </div>
 
-</div> Automation , Email auto reply , custom chatbot . customaziations the professional level and github  profile so upate the code better style
+</div>  
