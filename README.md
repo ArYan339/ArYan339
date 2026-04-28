@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=120&section=header&text=Rajnish%20Bodha&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=AI%20Developer%20%7C%20Builder%20%7C%20Automator&descAlignY=70&descSize=16"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6B00&height=120&section=header&text=Ajay%20Bodha&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=AI%20Developer%20%7C%20Builder%20%7C%20Automator&descAlignY=70&descSize=16"/>
 
 <!-- Typing animation -->
 <a href="https://git.io/typing-svg">
@@ -17,7 +17,7 @@
 ## ⚡ About Me
 
 ```python
-rajnish = {
+Ajay = {
     "name"      : "Ajay Kushwaha",
     "based_in"  : "Tbilisi, Georgia 🇬🇪",
     "from"      : "Kathmandu, Nepal 🇳🇵",
@@ -47,7 +47,7 @@ GTK3/4, GNOME Shell, Firefox, VS Code, Vim, Starship, Pywal & more.
 </td>
 <td width="50%">
 
-### 📄 [Markdown Viewer](https://github.com/dashaneka)
+### 📄 [Markdown Viewer](https://github.com/Aryan339)
 Clean app that renders Markdown beautifully with **PDF export**.
 
 No clutter. Just your content, structured perfectly.
@@ -59,7 +59,7 @@ No clutter. Just your content, structured perfectly.
 <tr>
 <td width="50%">
 
-### 📰 [Subreddit News](https://github.com/dashaneka)
+### 📰 [Subreddit News](https://github.com/ArYan339)
 Reddit news reader — **zero ads, zero distractions**.
 
 Just the content you care about, clean and fast.
@@ -103,8 +103,8 @@ Open for freelance — **small tasks from $5, same day delivery.**
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=dashaneka&show_icons=true&theme=dark&title_color=FF6B00&icon_color=FF6B00&text_color=ffffff&bg_color=0d1117&border_color=FF6B00&hide_border=false"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dashaneka&layout=compact&theme=dark&title_color=FF6B00&text_color=ffffff&bg_color=0d1117&border_color=FF6B00"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ArYan339&show_icons=true&theme=dark&title_color=FF6B00&icon_color=FF6B00&text_color=ffffff&bg_color=0d1117&border_color=FF6B00&hide_border=false"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArYan399&layout=compact&theme=dark&title_color=FF6B00&text_color=ffffff&bg_color=0d1117&border_color=FF6B00"/>
 
 </div>
 
@@ -117,8 +117,8 @@ Open for freelance — **small tasks from $5, same day delivery.**
 **I'm open for freelance — Python scripts, AI tools, automation, web apps.**
 **Small tasks from $5. Fast delivery. Real results.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-dashaneka-FF6B00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dashaneka)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rajnish_Bodha-FF6B00?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajnish-bodha)
+[![GitHub](https://img.shields.io/badge/GitHub-dashaneka-FF6B00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArYan339)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ajay _Kushwaha-FF6B00?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ajay Kushwaha)
 
 </div>
 
