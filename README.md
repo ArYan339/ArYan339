@@ -1,30 +1,29 @@
-<div align="center">
+# Hello, I'm Ajay! 👋 
 
-# Hi there, I'm <a href="https://github.com/ArYan339">Aryan</a>! 👋
+## 👨‍💻 About Me 
 
-### 🤖 AI Enthusiast | 🛠️ Tool Builder | 🌐 Web Developer
+I am a passionate developer with experience in various technologies. Here are some of my best projects:
 
-I build distraction-free web tools and experiment with Large Language Models.
-My goal is to simplify complex tasks and create useful utilities.
+| Project      | Description                                |
+|--------------|--------------------------------------------|
+| CodeY       | A platform for collaborative coding.
+| telegram-bot | A bot for automating tasks on Telegram.
+| Upscale     | An image enhancement tool.
+| rkveo       | A social media application.
+
+## 🛠️ Tech Stack 
+
+- JavaScript
+- Python
+- Node.js
+- React
+- CSS
+- HTML
+
+## 🌟 GitHub Stats 
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArYan339&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ---
 
-### 🚀 Tech Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
-</p>
-
----
-
- 
-
-<div align="center">
-  <sub>Built with ❤️ by <a href="https://github.com/ArYan339">Aryan</a></sub>
-</div>
-
-</div>  
+Thanks for visiting my profile!
