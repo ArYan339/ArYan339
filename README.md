@@ -117,8 +117,8 @@ Open for freelance — **small tasks from $5, same day delivery.**
 **I'm open for freelance — Python scripts, AI tools, automation, web apps.**
 **Small tasks from $5. Fast delivery. Real results.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-dashaneka-FF6B00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArYan339)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ajay _Kushwaha-FF6B00?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Ajay Kushwaha)
+[![GitHub](https://img.shields.io/badge/GitHub-ArYan339-FF6B00?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArYan339)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ram-bachan _Kushw-FF6B00?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ram-bachan)
 
 </div>
 
